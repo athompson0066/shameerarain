@@ -1,0 +1,6 @@
+{
+  "name": "The 6 Realtor",
+  "description": "Premium Toronto real estate consultancy specializing in luxury properties and urban lifestyles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

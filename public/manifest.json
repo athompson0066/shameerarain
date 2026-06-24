@@ -1,0 +1,21 @@
+{
+  "name": "Shameer Arain Real Estate",
+  "short_name": "SA Real Estate",
+  "description": "Premium Toronto Real Estate Services by Shameer Arain",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://photos.zillowstatic.com/fp/1125d2d5766ee9a8ea644122437bd541-h_l.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://photos.zillowstatic.com/fp/1125d2d5766ee9a8ea644122437bd541-h_l.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
